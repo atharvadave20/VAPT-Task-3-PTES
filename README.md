@@ -7,7 +7,8 @@
 ---
 
 ## 🎯 Objective
-This task focuses on advanced vulnerability exploitation, exploit chaining, privilege escalation, evidence collection, and professional reporting following PTES standards.
+This task focuses on advanced vulnerability exploitation, exploit chaining, privilege escalation, evidence collection,
+and professional reporting following PTES standards.
 
 ---
 
@@ -100,5 +101,6 @@ Implement strict input validation
 Conduct regular security assessments
 
 ✅ Conclusion
-This task demonstrates how chaining multiple vulnerabilities can lead to complete system compromise. Proper hardening and security controls are required to prevent real-world attacks.
+This task demonstrates how chaining multiple vulnerabilities can lead to complete system compromise.
+Proper hardening and security controls are required to prevent real-world attacks.
 
