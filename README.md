@@ -2,7 +2,6 @@
 
 ## 👤 Author
 **Name:** Atharva Dave  
-**Role:** VAPT Intern / Security Researcher  
 **Methodology:** PTES (Penetration Testing Execution Standard)
 
 ---
