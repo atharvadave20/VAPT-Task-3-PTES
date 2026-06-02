@@ -1,4 +1,4 @@
-# VAPT Task-3 – Advanced Exploitation & PTES Report
+# 03-Advanced-Exploitation-and-Privilege-Escalation
 
 ## 👤 Author
 **Name:** Atharva Dave  
